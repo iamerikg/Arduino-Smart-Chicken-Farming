@@ -39,9 +39,6 @@ This project implements a smart farming system for monitoring ammonia levels, ch
 
 3. When the "STATUS" command is received via SMS, the system will send back real-time data including temperature, humidity, ammonia levels, and feeder weight.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
@@ -50,6 +47,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 
-- [Your Name]
-
+- [Erick Garcia](https://www.linkedin.com/in/erickmanalastasgarcia/)
+  
 Feel free to contribute, improve, and adapt this project to your specific needs.
